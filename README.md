@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Issath 👋</h1>
 
 <p align="center">
-  🚀 Backend Engineer | 🐍 Python/Django | ✍️ Blogger on Medium<br/>
+  ⚙️ Backend Engineer | 🐍 Python/Django | ✍️ Blogger on Medium<br/>
   Grinding smart & hard toward big goals 💰 | Slightly obsessed with clean UI 🎨
 </p>
 
@@ -9,7 +9,8 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 Working with **Django**, **DRF**, and **PostgreSQL** to build scalable backend systems  
+- 🔭 Working with **Django**, **DRF**, and **PostgreSQL** to build scalable backend systems
+- ⚙️ Exploring **architecture patterns**, **system design**, and **DevOps fundamentals**
 - 🎨 Love designing clean UI and I explore **Figma**, **Next.js**, and **TailwindCSS** for fun  
 - 🗃️ Also familiar with **MongoDB** and async patterns  
 - ✍️ Writing tech articles on [Medium](https://medium.com/@Am_Issath), including [this one](https://medium.com/@Am_Issath/the-secret-sauce-behind-instagrams-django-models-and-how-you-can-use-it-a98b06acab90?sk=9cf62abc972d4afb193b82ed9bddef48) that gained solid traction  
@@ -38,8 +39,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Am-Issath&show_icons=true&theme=radical" alt="Issath's GitHub stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Am-Issath&theme=radical" alt="GitHub Streak" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Am-Issath&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
@@ -55,8 +54,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohamed-issath-424b85168/)
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&logo=medium)](https://medium.com/@Am_Issath)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/Am-Issath)
-
 ---
 
 ### 🧭 Motto
