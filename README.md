@@ -42,7 +42,7 @@
   <br/>
   <img src="https://streak-stats.demolab.com?user=Am-Issath&theme=radical" />
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Am-Issath&theme=radical&no-frame=true&title=Commit,Issues,PullRequest,Repositories" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Am-Issath&theme=radical" />
 </p>
 
 ---
