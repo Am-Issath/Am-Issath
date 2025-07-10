@@ -36,11 +36,11 @@
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Am-Issath&show_icons=true&theme=radical" alt="Issath's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Am-Issath&show_icons=true&theme=radical" alt="GitHub stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Am-Issath&layout=compact&theme=radical" alt="Top Languages" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Am-Issath&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=Am-Issath&theme=radical" />
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=Am-Issath&theme=radical&no-frame=true&title=Commit,Issues,PullRequest,Repositories" />
 </p>
