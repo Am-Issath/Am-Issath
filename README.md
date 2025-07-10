@@ -1,3 +1,9 @@
+<!-- Typing Animation Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=FF6B81&center=true&width=435&lines=Hey+I'm+Issath+👋;Python%2FDjango+Backend+Engineer;Building+Smart%2C+Clean+Systems;Learning.+Grinding.+Scaling." />
+</p>
+
+<!-- Profile Summary -->
 <h1 align="center">Hey there, I'm Issath 👋</h1>
 
 <p align="center">
@@ -9,37 +15,34 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 Working with **Django**, **DRF**, and **PostgreSQL** to build scalable backend systems
-- ⚙️ Exploring **architecture patterns**, **system design**, and **DevOps fundamentals**
+- 🔭 Working with **Django**, **DRF**, and **PostgreSQL** to build scalable backend systems  
+- ⚙️ Exploring **architecture patterns**, **system design**, and **DevOps fundamentals**  
 - 🎨 Love designing clean UI and I explore **Figma**, **Next.js**, and **TailwindCSS** for fun  
 - 🗃️ Also familiar with **MongoDB** and async patterns  
 - ✍️ Writing tech articles on [Medium](https://medium.com/@Am_Issath), including [this one](https://medium.com/@Am_Issath/the-secret-sauce-behind-instagrams-django-models-and-how-you-can-use-it-a98b06acab90?sk=9cf62abc972d4afb193b82ed9bddef48) that gained solid traction  
 - 🎯 Ambitious, learning-focused, and aiming to build real wealth through tech  
-- 💬 Always open to collab, feedback, or real conversations about dev life
+- 💬 Always open to collab, feedback, or real conversations about dev life  
 
 ---
 
 ### ⚒️ Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,mongodb,docker,git,linux,figma,nextjs,tailwind" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Am-Issath&show_icons=true&theme=radical" alt="Issath's GitHub stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Am-Issath&layout=compact&theme=radical" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Am-Issath&theme=radical" />
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Am-Issath&theme=radical&no-frame=true&title=Commit,Issues,PullRequest,Repositories" />
 </p>
 
 ---
@@ -52,10 +55,31 @@
 
 ### 📫 Let’s Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohamed-issath-424b85168/)
-[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&logo=medium)](https://medium.com/@Am_Issath)
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-issath-424b85168/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://medium.com/@Am_Issath">
+    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium" />
+  </a>
+</p>
+
 ---
 
 ### 🧭 Motto
 
 > **"Build with purpose. Write with clarity. Earn with strategy."**
+
+---
+
+<details>
+  <summary>More About Me 👀</summary>
+  <br/>
+
+- 🛠️ I often dive deep into Django internals just for fun  
+- 🧠 Big fan of async workflows, RabbitMQ, and Celery  
+- ☕ Coffee + Lo-Fi + Terminal = Perfect Dev Vibe  
+- 🚀 Dreaming of launching a SaaS that scales to millions  
+- 💡 Motto: *Be the engineer you needed 5 years ago*
+
+</details>
