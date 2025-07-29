@@ -1,6 +1,6 @@
 <!-- Typing Animation Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=FF6B81&center=true&width=435&lines=Hey+I'm+Issath+👋;Python%2FDjango+Backend+Engineer;Building+Smart%2C+Clean+Systems;Learning.+Grinding.+Scaling." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=FF6B81&center=true&width=480&lines=Hey+I'm+Issath+👋;Backend+Engineer;Building+Smart%2C+Clean+Systems;Learning.+Grinding.+Scaling." />
 </p>
 
 <!-- Profile Summary -->
@@ -36,13 +36,13 @@
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Am-Issath&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Am-Issath&show_icons=true&theme=tokyonight&border_radius=15&hide_border=false" alt="GitHub stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Am-Issath&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Am-Issath&layout=compact&theme=tokyonight&border_radius=15" alt="Top Languages" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=Am-Issath&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=Am-Issath&theme=tokyonight&border_radius=15" />
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Am-Issath&theme=radical" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Am-Issath&theme=algolia&margin-w=15&no-bg=true" />
 </p>
 
 ---
@@ -57,10 +57,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-issath-424b85168/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://medium.com/@Am_Issath">
-    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium" />
+    <img src="https://img.shields.io/badge/Medium-%2312100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </p>
 
