@@ -1,6 +1,6 @@
-<!-- Typing Animation Header -->
+<!-- 3D Typing Animation Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=FF6B81&center=true&width=480&lines=Hey+I'm+Issath+👋;Backend+Engineer;Building+Smart%2C+Clean+Systems;Learning.+Grinding.+Scaling." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0FF0FC&center=true&vCenter=true&width=550&lines=Hey+I'm+Issath+👋;Backend+Engineer+with+DevOps+SaaS+Focus;Scaling+Clean+and+Smart+Systems;Learning.+Grinding.+Shipping." />
 </p>
 
 <!-- Profile Summary -->
@@ -25,10 +25,10 @@
 
 ---
 
-### ⚒️ Tech Stack
+### ⚒️ Tech Stack (Backend + DevOps + SaaS)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,postgres,mongodb,docker,git,linux,figma,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,mongodb,docker,nginx,redis,git,linux,kubernetes,aws,gcp,grafana,prometheus,vscode,figma,nextjs,tailwind" />
 </p>
 
 ---
@@ -36,13 +36,13 @@
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Am-Issath&show_icons=true&theme=tokyonight&border_radius=15&hide_border=false" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Am-Issath&show_icons=true&theme=tokyonight&border_radius=12&hide_border=false" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Am-Issath&layout=compact&theme=tokyonight&border_radius=15" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Am-Issath&layout=compact&theme=tokyonight&border_radius=12" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=Am-Issath&theme=tokyonight&border_radius=15" />
+  <img src="https://streak-stats.demolab.com?user=Am-Issath&theme=tokyonight&border_radius=12" />
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Am-Issath&theme=algolia&margin-w=15&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Am-Issath&theme=algolia&no-bg=true&margin-w=15" />
 </p>
 
 ---
