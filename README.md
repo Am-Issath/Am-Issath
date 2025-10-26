@@ -60,6 +60,7 @@ me.say_hi()
 ### Tools & Infrastructure
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
@@ -77,54 +78,6 @@ me.say_hi()
 
 <!-- Featured Projects -->
 ## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🗺️ Tourism Safety Backend
-FastAPI-based safety mapping system with real-time data processing
-
-**Tech Stack:** `FastAPI` `PostgreSQL` `Docker`
-
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Safety-Map-360/Tourism-Safety-Backend)
-
-</td>
-<td width="50%">
-
-### 🔥 Your Project Name
-Brief description of another cool project you're working on
-
-**Tech Stack:** `Django` `PostgreSQL` `Celery`
-
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](#)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 💡 Project Three
-Another awesome project description
-
-**Tech Stack:** `Python` `Redis` `Docker`
-
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](#)
-
-</td>
-<td width="50%">
-
-### 🚀 Project Four
-One more exciting project
-
-**Tech Stack:** `Django` `MongoDB` `RabbitMQ`
-
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](#)
-
-</td>
-</tr>
-</table>
 
 <div align="center">
   
