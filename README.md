@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hero Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohamed%20Issath&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anas%20Issath&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&width=500&height=50&lines=Backend+Engineer+%7C+Python+Specialist;Building+Scalable+Systems;Django+%7C+FastAPI+%7C+PostgreSQL;Clean+Code+Advocate+%26+Tech+Writer" alt="Typing SVG" />
