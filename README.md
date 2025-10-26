@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohamed%20Issath&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&width=440&height=45&lines=Backend+Engineer+%7C+Python+Specialist;Building+Scalable+Systems;Django+%7C+FastAPI+%7C+PostgreSQL;Clean+Code+Advocate+%26+Tech+Writer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&width=500&height=50&lines=Backend+Engineer+%7C+Python+Specialist;Building+Scalable+Systems;Django+%7C+FastAPI+%7C+PostgreSQL;Clean+Code+Advocate+%26+Tech+Writer" alt="Typing SVG" />
 
 <!-- Profile Badges -->
 <p>
@@ -38,7 +38,7 @@ me.say_hi()
 
 🔭 **Currently:** Building production-ready APIs with Django/FastAPI & exploring microservices architecture  
 🌱 **Learning:** System Design Patterns, DevOps practices, Advanced PostgreSQL optimization  
-✍️ **Writing:** Tech insights on [Medium](https://medium.com/@Am_Issath) - helping developers level up  
+✍️ **Writing:** Tech insights on [Medium](https://medium.com/@anas-issath) - helping developers level up  
 🎯 **Goal:** Create impactful SaaS products that solve real problems  
 💬 **Ask me about:** Django internals, API design, database optimization, async workflows
 
@@ -94,10 +94,10 @@ me.say_hi()
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-📝 [**The Secret Sauce Behind Instagram's Django Models**](https://medium.com/@Am_Issath/the-secret-sauce-behind-instagrams-django-models-and-how-you-can-use-it-a98b06acab90?sk=9cf62abc972d4afb193b82ed9bddef48)  
+📝 [**The Secret Sauce Behind Instagram's Django Models**](https://medium.com/@anas-issath/the-secret-sauce-behind-instagrams-django-models-and-how-you-can-use-it-a98b06acab90?sk=9cf62abc972d4afb193b82ed9bddef48)  
 *Deep dive into Instagram's architecture patterns and how to apply them*
 
-🔥 Check out more on [Medium](https://medium.com/@Am_Issath)
+🔥 Check out more on [Medium](https://medium.com/@anas-issath)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
@@ -128,10 +128,10 @@ me.say_hi()
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-issath-424b85168/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Am_Issath)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-issath-424b85168/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anas-issath)
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://buildsmartengineering.substack.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anasissath2017@gmail.com)
 
 **Open to:** Freelance Projects | Collaborations | Tech Discussions
 
@@ -187,7 +187,7 @@ const issath = {
 
 If you find my content helpful, consider buying me a coffee!
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourusername)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/anas_issath)
 
 </div>
 
