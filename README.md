@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hero Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anas%20Issath&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohamed%20Issath&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&width=500&height=50&lines=Backend+Engineer+%7C+Python+Specialist;Building+Scalable+Systems;Django+%7C+FastAPI+%7C+PostgreSQL;Clean+Code+Advocate+%26+Tech+Writer" alt="Typing SVG" />
@@ -67,7 +67,7 @@ me.say_hi()
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
 </p>
 
-### Frontend
+### Frontend (For Fun)
 <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -103,12 +103,41 @@ me.say_hi()
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Am-Issath&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1F222E&title_color=3B82F6&icon_color=3B82F6&text_color=D3D3D3"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Am-Issath&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=3B82F6&text_color=D3D3D3"/>
+  
+<a href="https://github.com/Am-Issath">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Am-Issath&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&ring_color=3B82F6&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Am-Issath&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&cache_seconds=1800&exclude_repo=your-repo-to-exclude"/>
+</a>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Am-Issath&theme=tokyonight&hide_border=true&background=1F222E&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Am-Issath&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=3B82F6&sideLabels=C9D1D9&dates=6B7280" alt="GitHub Streak Stats" />
+</div>
+
+<div align="center">
+  
+### 📈 Contribution Graph
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Am-Issath&custom_title=Contribution%20Graph&bg_color=0D1117&color=3B82F6&line=3B82F6&point=C9D1D9&area_color=3B82F6&area=true&hide_border=true&theme=github-dark" alt="Contribution Graph" />
+
+</div>
+
+<div align="center">
+
+### 🏆 GitHub Trophies
+
+<img width="90%" src="https://github-profile-trophy.vercel.app/?username=Am-Issath&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+
+</div>
+
+<div align="center">
+
+### 📊 Detailed Stats
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Am-Issath&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&rank_icon=github&cache_seconds=1800" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Am-Issath&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&layout=compact&cache_seconds=1800&custom_title=Coding%20Activity" alt="Coding Stats"/>
+
 </div>
 
 <br/>
@@ -121,6 +150,7 @@ me.say_hi()
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-issath-424b85168/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anas-issath)
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://buildsmartengineering.substack.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anasissath2017@gmail.com)
 
 **Open to:** Freelance Projects | Collaborations | Tech Discussions
 
