@@ -182,31 +182,92 @@ Regular insights on backend engineering, system design, and building scalable ap
 
 <div align="center">
 
-```mermaid
-mindmap
-  root((Backend
-    Engineering))
-    API Development
-      REST APIs
-      GraphQL
-      WebSockets
-      API Versioning
-    System Design
-      Microservices
-      Event-Driven
-      CQRS Pattern
-      Distributed Systems
-    Databases
-      SQL Optimization
-      NoSQL Design
-      Caching Strategies
-      Data Modeling
-    DevOps
-      CI/CD Pipelines
-      Docker/K8s
-      Cloud Deployment
-      Monitoring
-```
+### Building Scalable Systems with Modern Architecture
+
+<table>
+<tr>
+<td width="25%" align="center">
+<img src="https://img.icons8.com/fluency/96/api-settings.png" width="80"/>
+
+### **API Development**
+`REST APIs` `GraphQL` `WebSockets` `API Versioning` `Rate Limiting` `Authentication`
+
+</td>
+<td width="25%" align="center">
+<img src="https://img.icons8.com/fluency/96/workflow.png" width="80"/>
+
+### **System Design**
+`Microservices` `Event-Driven` `CQRS Pattern` `Message Queues` `Load Balancing`
+
+</td>
+<td width="25%" align="center">
+<img src="https://img.icons8.com/fluency/96/database.png" width="80"/>
+
+### **Databases**
+`SQL Optimization` `NoSQL Design` `Caching Strategies` `Indexing` `Replication`
+
+</td>
+<td width="25%" align="center">
+<img src="https://img.icons8.com/fluency/96/cloud.png" width="80"/>
+
+### **DevOps & Cloud**
+`CI/CD Pipelines` `Docker` `AWS` `Monitoring` `Infrastructure as Code`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 📐 Architecture Patterns I Implement
+
+<img src="https://img.shields.io/badge/Microservices-667eea?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Event_Driven-764ba2?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Clean_Architecture-f093fb?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Domain_Driven_Design-667eea?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/CQRS_Pattern-764ba2?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/API_Gateway-f093fb?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Service_Mesh-667eea?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Circuit_Breaker-764ba2?style=for-the-badge&logoColor=white" />
+
+<br/><br/>
+
+### 🎯 System Design Principles
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+#### ⚡ Scalability
+- Horizontal & Vertical Scaling
+- Load Balancing Strategies
+- Database Sharding
+- Caching Layers (Redis)
+- CDN Integration
+
+</td>
+<td width="33%" valign="top">
+
+#### 🔒 Reliability
+- Fault Tolerance Design
+- Circuit Breaker Pattern
+- Retry Mechanisms
+- Health Check Systems
+- Disaster Recovery
+
+</td>
+<td width="33%" valign="top">
+
+#### 🚀 Performance
+- Query Optimization
+- Async Processing (Celery)
+- Connection Pooling
+- Message Queues (RabbitMQ)
+- Real-time Data Processing
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -229,9 +290,6 @@ mindmap
   </a>
   <a href="https://buildsmartengineering.substack.com/">
     <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white&labelColor=1a1b27" />
-  </a>
-  <a href="mailto:anasissath2017@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" />
   </a>
   <a href="https://github.com/Am-Issath">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" />
