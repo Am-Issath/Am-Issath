@@ -78,13 +78,57 @@ me.say_hi()
 <!-- Featured Projects -->
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
+### 🗺️ Tourism Safety Backend
+FastAPI-based safety mapping system with real-time data processing
+
+**Tech Stack:** `FastAPI` `PostgreSQL` `Docker`
+
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Safety-Map-360/Tourism-Safety-Backend)
+
+</td>
+<td width="50%">
+
+### 🔥 Your Project Name
+Brief description of another cool project you're working on
+
+**Tech Stack:** `Django` `PostgreSQL` `Celery`
+
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](#)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💡 Project Three
+Another awesome project description
+
+**Tech Stack:** `Python` `Redis` `Docker`
+
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](#)
+
+</td>
+<td width="50%">
+
+### 🚀 Project Four
+One more exciting project
+
+**Tech Stack:** `Django` `MongoDB` `RabbitMQ`
+
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](#)
+
+</td>
+</tr>
+</table>
+
 <div align="center">
-
-<a href="https://github.com/Safety-Map-360/Tourism-Safety-Backend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Am-Issath&repo=Tourism-Safety-Backend&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=3B82F6&icon_color=3B82F6" />
-</a>
-
-<!-- Add more featured repos here -->
+  
+📌 **Want to see more?** Check out my [repositories](https://github.com/Am-Issath?tab=repositories)!
 
 </div>
 
@@ -112,13 +156,6 @@ me.say_hi()
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Am-Issath&theme=tokyonight&hide_border=true&background=1F222E&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" />
-</div>
-
-<br/>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Am-Issath&theme=tokyo-night&hide_border=true&bg_color=1F222E&color=3B82F6&line=3B82F6&point=FFFFFF" />
 </div>
 
 <br/>
