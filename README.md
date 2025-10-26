@@ -1,224 +1,393 @@
 <div align="center">
 
-<!-- Hero Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohamed%20Issath&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Anas%20Issath&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20System%20Design%20Enthusiast&descAlignY=55&descSize=18" />
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&width=500&height=50&lines=Backend+Engineer+%7C+Python+Specialist;Building+Scalable+Systems;Django+%7C+FastAPI+%7C+PostgreSQL;Clean+Code+Advocate+%26+Tech+Writer" alt="Typing SVG" />
+<!-- Dynamic Typing -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=false&width=600&height=60&lines=Building+Scalable+Backend+Systems;Django+%7C+FastAPI+%7C+PostgreSQL;System+Design+%26+Architecture;Writing+on+Medium+%26+Substack" alt="Typing Animation" />
+</div>
 
-<!-- Profile Badges -->
-<p>
-  <img src="https://img.shields.io/badge/Focus-Backend_Engineering-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Living-Sri_Lanka-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Languages-Python_|_JavaScript-informational?style=flat-square" />
-  <img src="https://komarev.com/ghpvc/?username=Am-Issath&style=flat-square&color=blue" />
+<!-- Profile Stats Bar -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Backend_Engineer-667eea?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Focus-System_Design-764ba2?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Location-Sri_Lanka-f093fb?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://komarev.com/ghpvc/?username=Am-Issath&style=for-the-badge&color=667eea&labelColor=1a1b27" />
 </p>
 
 </div>
 
+---
+
 <br/>
 
-<!-- About Section -->
-## 👨‍💻 About Me
+## 🎯 About Me
+
+<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 ```python
-class BackendEngineer:
+class SystemArchitect:
     def __init__(self):
-        self.name = "Mohamed Issath"
+        self.name = "Anas Issath"
         self.role = "Backend Engineer"
-        self.language_spoken = ["en_US", "si_LK"]
-        self.current_focus = ["System Design", "Scalable APIs", "Clean Architecture"]
+        self.company = "Building the Future"
+        self.expertise = {
+            "languages": ["Python", "JavaScript"],
+            "frameworks": ["Django", "FastAPI", "DRF"],
+            "databases": ["PostgreSQL", "MongoDB", "Redis"],
+            "architecture": [
+                "Microservices",
+                "Event-Driven Systems", 
+                "Clean Architecture",
+                "Domain-Driven Design"
+            ]
+        }
         
+    def current_focus(self):
+        return [
+            "System Design Patterns",
+            "Scalable API Architecture",
+            "Database Optimization",
+            "DevOps & Cloud Infrastructure"
+        ]
+    
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together.")
+        print("Let's build systems that scale! 🚀")
 
-me = BackendEngineer()
-me.say_hi()
+engineer = SystemArchitect()
+engineer.say_hi()
 ```
 
-🔭 **Currently:** Building production-ready APIs with Django/FastAPI & exploring microservices architecture  
-🌱 **Learning:** System Design Patterns, DevOps practices, Advanced PostgreSQL optimization  
-✍️ **Writing:** Tech insights on [Medium](https://medium.com/@anas-issath) - helping developers level up  
-🎯 **Goal:** Create impactful SaaS products that solve real problems  
-💬 **Ask me about:** Django internals, API design, database optimization, async workflows
+<br clear="right"/>
+
+### 🔥 What I'm Up To
+
+- 🏗️ **Building:** Production-grade APIs with Django/FastAPI
+- 📚 **Learning:** Advanced System Design, Distributed Systems, Cloud Architecture
+- ✍️ **Writing:** Technical deep-dives on **[Medium](https://medium.com/@anas-issath)** & **[Substack](https://buildsmartengineering.substack.com/)**
+- 🎯 **Goal:** Create impactful SaaS products that solve real problems at scale
+- 💡 **Passion:** Clean code, scalable architecture, and helping developers level up
 
 <br/>
 
-<!-- Tech Stack -->
-## 🛠️ Tech Stack
+---
 
-### Backend & Databases
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
-
-### Tools & Infrastructure
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-</p>
-
-### Frontend (For Fun)
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
-
-<br/>
-
-<!-- Featured Projects -->
-## 🚀 Featured Projects
+## 🛠️ Technology Arsenal
 
 <div align="center">
-  
-📌 **Want to see more?** Check out my [repositories](https://github.com/Am-Issath?tab=repositories)!
+
+### Core Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,mongodb,redis&theme=dark" />
+</p>
+
+### Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,linux,nginx,rabbitmq&theme=dark" />
+</p>
+
+### Tools & Others
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,figma,vscode,postman,github&theme=dark" />
+</p>
 
 </div>
 
 <br/>
 
-<!-- Blog Section -->
-## ✍️ Latest Blog Posts
+---
 
-<!-- BLOG-POST-LIST:START -->
-📝 [**The Secret Sauce Behind Instagram's Django Models**](https://medium.com/@anas-issath/the-secret-sauce-behind-instagrams-django-models-and-how-you-can-use-it-a98b06acab90?sk=9cf62abc972d4afb193b82ed9bddef48)  
-*Deep dive into Instagram's architecture patterns and how to apply them*
-
-🔥 Check out more on [Medium](https://medium.com/@anas-issath)
-<!-- BLOG-POST-LIST:END -->
-
-<br/>
-
-<!-- GitHub Stats -->
-## 📊 GitHub Analytics
+## 📝 Featured Writing
 
 <div align="center">
-  
-<a href="https://github.com/Am-Issath">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Am-Issath&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&ring_color=3B82F6&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Am-Issath&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&cache_seconds=1800&exclude_repo=your-repo-to-exclude"/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📰 Medium Articles
+<a href="https://medium.com/@anas-issath">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
-</div>
+**Latest Post:**
+🔥 [The Secret Sauce Behind Instagram's Django Models](https://medium.com/@anas-issath/the-secret-sauce-behind-instagrams-django-models-and-how-you-can-use-it-a98b06acab90?sk=9cf62abc972d4afb193b82ed9bddef48)
 
-<div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Am-Issath&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=3B82F6&sideLabels=C9D1D9&dates=6B7280" alt="GitHub Streak Stats" />
-</div>
+*Deep dive into Instagram's architecture patterns and how to implement them in your projects.*
 
-<div align="center">
-  
-### 📈 Contribution Graph
+---
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Am-Issath&custom_title=Contribution%20Graph&bg_color=0D1117&color=3B82F6&line=3B82F6&point=C9D1D9&area_color=3B82F6&area=true&hide_border=true&theme=github-dark" alt="Contribution Graph" />
+**Topics I Write About:**
+- 🏗️ System Design & Architecture
+- 🐍 Django & Python Best Practices
+- 📊 Database Optimization
+- ⚡ API Design & Performance
 
-</div>
+</td>
+<td width="50%" valign="top">
 
-<div align="center">
+### 📬 Substack Newsletter
+<a href="https://buildsmartengineering.substack.com/">
+  <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" />
+</a>
 
-### 🏆 GitHub Trophies
+**Build Smart Engineering**
 
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=Am-Issath&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+Regular insights on backend engineering, system design, and building scalable applications.
 
-</div>
+---
 
-<div align="center">
+**What You'll Learn:**
+- 🎯 Real-world system design patterns
+- 💻 Production-ready code examples
+- 🚀 Performance optimization techniques
+- 📈 Career growth for engineers
 
-### 📊 Detailed Stats
+<a href="https://buildsmartengineering.substack.com/">
+  <img src="https://img.shields.io/badge/Subscribe_Now-667eea?style=for-the-badge" />
+</a>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Am-Issath&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&rank_icon=github&cache_seconds=1800" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Am-Issath&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&layout=compact&cache_seconds=1800&custom_title=Coding%20Activity" alt="Coding Stats"/>
-
-</div>
-
-<br/>
-
-<!-- Connect Section -->
-## 🤝 Let's Connect
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-issath-424b85168/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anas-issath)
-[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://buildsmartengineering.substack.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anasissath2017@gmail.com)
-
-**Open to:** Freelance Projects | Collaborations | Tech Discussions
+</td>
+</tr>
+</table>
 
 </div>
 
 <br/>
 
-<!-- Fun Facts -->
-## 💡 Beyond Code
+---
+
+## 📊 GitHub Performance Metrics
+
+<div align="center">
+
+<!-- Main Stats Grid -->
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Am-Issath&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9&count_private=true&include_all_commits=true&custom_title=GitHub%20Statistics" />
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Am-Issath&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&langs_count=8&custom_title=Most%20Used%20Languages" />
+
+<!-- Streak Stats -->
+<img width="98%" src="https://streak-stats.demolab.com/?user=Am-Issath&theme=radical&hide_border=true&background=0d1117&stroke=667eea&ring=667eea&fire=f093fb&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=667eea&sideLabels=c9d1d9&dates=8b949e" />
+
+<!-- Activity Graph -->
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Am-Issath&custom_title=Contribution%20Timeline&bg_color=0d1117&color=667eea&line=764ba2&point=f093fb&area_color=667eea&area=true&hide_border=true" />
+
+</div>
+
+<br/>
+
+---
+
+## 🏆 Technical Expertise
+
+<div align="center">
+
+```mermaid
+mindmap
+  root((Backend
+    Engineering))
+    API Development
+      REST APIs
+      GraphQL
+      WebSockets
+      API Versioning
+    System Design
+      Microservices
+      Event-Driven
+      CQRS Pattern
+      Distributed Systems
+    Databases
+      SQL Optimization
+      NoSQL Design
+      Caching Strategies
+      Data Modeling
+    DevOps
+      CI/CD Pipelines
+      Docker/K8s
+      Cloud Deployment
+      Monitoring
+```
+
+</div>
+
+<br/>
+
+---
+
+## 💼 Let's Connect & Collaborate
+
+<div align="center">
+
+### 🌐 Find Me Online
+
+<p>
+  <a href="https://www.linkedin.com/in/anas-issath-424b85168/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" />
+  </a>
+  <a href="https://medium.com/@anas-issath">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=1a1b27" />
+  </a>
+  <a href="https://buildsmartengineering.substack.com/">
+    <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white&labelColor=1a1b27" />
+  </a>
+  <a href="mailto:anasissath2017@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" />
+  </a>
+  <a href="https://github.com/Am-Issath">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" />
+  </a>
+</p>
+
+### 💡 Open For
+
+<table align="center">
+<tr>
+<td align="center">💼</td>
+<td><b>Freelance Projects</b></td>
+<td align="center">🤝</td>
+<td><b>Technical Collaborations</b></td>
+</tr>
+<tr>
+<td align="center">📝</td>
+<td><b>Guest Blog Posts</b></td>
+<td align="center">🎤</td>
+<td><b>Tech Talks & Podcasts</b></td>
+</tr>
+<tr>
+<td align="center">🧑‍🏫</td>
+<td><b>Code Reviews & Mentoring</b></td>
+<td align="center">💬</td>
+<td><b>Technical Discussions</b></td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+## 🎨 Beyond The Code
+
+<div align="center">
+
+<table>
+<tr>
+<td width="60%">
 
 ```javascript
-const issath = {
-    code: ["Python", "JavaScript"],
-    tools: ["Django", "FastAPI", "Docker"],
-    architecture: ["Microservices", "Event-Driven", "Clean Architecture"],
-    currentlyLearning: "Advanced System Design Patterns",
-    funFact: "I debug with print statements and I'm not ashamed 😎",
-    workSetup: "Coffee ☕ + Lo-Fi 🎵 + Terminal 💻 = Flow State 🚀"
+const anasIssath = {
+  pronouns: "he/him",
+  code: ["Python", "JavaScript", "SQL"],
+  askMeAbout: [
+    "System Design",
+    "Backend Architecture", 
+    "Django Internals",
+    "Database Optimization",
+    "API Design Patterns"
+  ],
+  technologies: {
+    backend: ["Django", "FastAPI", "DRF"],
+    databases: ["PostgreSQL", "MongoDB", "Redis"],
+    devOps: ["Docker", "AWS", "CI/CD"],
+    tools: ["Git", "Linux", "RabbitMQ", "Celery"]
+  },
+  currentlyLearning: [
+    "Distributed Systems",
+    "Event-Driven Architecture",
+    "Kubernetes",
+    "System Design at Scale"
+  ],
+  funFact: "I debug with print() and I'm not ashamed 😎"
 };
 ```
 
+</td>
+<td width="40%">
+
+### ⚡ Quick Facts
+
+🌙 **Night Owl** - Best code written after 10 PM
+
+☕ **Coffee Powered** - Fuel for debugging sessions
+
+🎵 **Lo-Fi Listener** - Background beats for flow state
+
+📚 **Continuous Learner** - Always exploring new tech
+
+🎯 **Goal-Oriented** - Building products that matter
+
+💪 **Motto:** *"Be the engineer you needed 5 years ago"*
+
+</td>
+</tr>
+</table>
+
+</div>
+
 <details>
-<summary><b>⚡ More Fun Facts</b></summary>
+<summary><b>🔍 More About My Engineering Journey</b></summary>
 <br/>
 
-- 🛠️ Love diving into Django/FastAPI internals for optimization
-- 🧠 Obsessed with writing clean, maintainable code
-- 🎯 Building multiple side projects simultaneously (yes, I'm that person)
-- 📚 Reading tech blogs daily to stay updated
-- 🌙 Night owl - best code written after 10 PM
-- 🎨 Secretly enjoy frontend work and pixel-perfect designs
-- 💪 Motto: *"Be the engineer you needed 5 years ago"*
+- 🛠️ **Deep Diver:** Love exploring Django/FastAPI internals and understanding how things work under the hood
+- 🏗️ **Architecture Enthusiast:** Passionate about clean architecture, SOLID principles, and design patterns
+- 📊 **Performance Geek:** Always optimizing queries, caching strategies, and API response times
+- 🌐 **Full-Stack Curious:** Backend is my forte, but I enjoy creating clean UIs with Next.js and Tailwind
+- 📝 **Knowledge Sharer:** Writing technical content to help other developers grow
+- 🚀 **Side Project Builder:** Always working on multiple projects simultaneously
+- 💡 **Problem Solver:** Love tackling complex system design challenges
+- 🎓 **Continuous Student:** Reading tech blogs, papers, and documentation daily
+
+**What Drives Me:**
+Building systems that are not just functional, but elegant, scalable, and maintainable. Code that other engineers will thank you for writing. Architecture that stands the test of time and traffic.
 
 </details>
 
 <br/>
 
-<!-- Quote -->
+---
+
+## ☕ Support My Work
+
 <div align="center">
-  
-### 💭 Developer Quote
-  
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+If you find my content valuable and want to support my writing & open-source contributions:
+
+<a href="https://buymeacoffee.com/anas_issath">
+  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+</a>
+
+*Every coffee helps me create more content and contribute to the developer community!* ☕💙
 
 </div>
 
 <br/>
 
-<!-- Support -->
+---
+
+## 📈 Profile Analytics
+
 <div align="center">
 
-### ☕ Support My Work
+![](https://hit.yhype.me/github/profile?user_id=Am-Issath)
 
-If you find my content helpful, consider buying me a coffee!
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/anas_issath)
+### 🌟 If you found something useful, drop a ⭐ on the repos!
 
 </div>
 
 <br/>
 
-<!-- Footer -->
+---
+
 <div align="center">
 
-### 🌟 Show Some Love!
+### 💭 Random Dev Quote
 
-If you like what you see, drop a ⭐ on my repos!
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+<br/><br/>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer" />
 
 </div>
